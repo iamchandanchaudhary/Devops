@@ -1,17 +1,17 @@
-<h1>What is DevOps?</h1>
-<h2>Introduction to DevOps</h2>
+<h1 style="color:#0f6dbf">What is DevOps?</h1>
+<h2 style="color:#0f6dbf">Introduction to DevOps</h2>
 Did you know that DevOps can accomplish tasks in minutes, which used to take hours or even days of work? This efficiency allows companies to focus more on their business or product. Perhaps this is why the IT industry is adopting DevOps at such a rapid pace. In the next few minutes, I will show you how thousands of companies are evolving and adopting the DevOps culture.
 
 My name is Imran. I am a DevOps consultant and trainer. Let me help you understand what DevOps is and how it can solve some business-critical problems.
 
-<h2>The Story of Emma and Her Art Gallery</h2>
+<h2 style="color:#0f6dbf">The Story of Emma and Her Art Gallery</h2>
 Everyone likes a good story, and here it is. Meet Emma. She is an artist with a passion for collecting artworks. Emma owns an art gallery from where she sells artwork to the public. She wants to expand her business online through a mobile app so users around the world can access her gallery and make purchases through the app.
 
 Emma does not have a team to accomplish this. She needs developers, testers, and administrators. Therefore, Emma approaches a software consulting firm and explains her idea.
 
 Reggie, the Director of the Development and Operations Team, explains the process of development, delivery, and service of the software. Avi, the Project Manager of the Software Development Team, explains the software development process to Emma. Freddy, Head of Operations, explains how the mobile app will be hosted on the cloud server. After meeting these experts, Emma decides to sign the deal.
 
-<h2>Understanding the Software Development Process</h2>
+<h2 style="color:#0f6dbf">Understanding the Software Development Process</h2>
 Emma is curious and wants to understand the software development process. Let's explore it.
 
 Software development is a well-defined and organized process consisting of several phases:
@@ -35,7 +35,7 @@ Let's review the entire process again:
 
 This entire process is called the Software Development Lifecycle (SDLC).
 
-<h2>Different Models in SDLC</h2>
+<h2 style="color:#0f6dbf">Different Models in SDLC</h2>
 There are different models in SDLC, including:
 
 - Waterfall model
@@ -51,7 +51,7 @@ Emma is unsure about all the requirements at once. She would like to observe pro
 
 Instead of developing all requirements for months, the work can be divided into smaller lists, worked on for two to four weeks each, and then move on to the next list. This lifecycle is called Agile. Each iteration lasts two to four weeks, and demonstrations can be given to Emma after every iteration. Based on her feedback, new ideas can be injected in the next iteration.
 
-<h2>Challenges in Agile SDLC</h2>
+<h2 style="color:#0f6dbf">Challenges in Agile SDLC</h2>
 Development starts with Agile SDLC. Developers begin coding after planning. Avi instructs Freddy from the operations team to deploy the code on servers for testing. However, testers sometimes cannot access the servers or their test cases fail. Avi informs Freddy about the failed deployment. Freddy is confused as everything was done as instructed and servers look healthy.
 
 Agile SDLC puts extra stress on the operations team due to regular code changes that need deployment for testing. This happens several times in a single iteration. The operations team becomes tired with regular deployment requests and is also occupied with production support to maintain system uptime. Due to failures and fixes, Avi misses the demonstration deadline, and Emma waits a long time to see her mobile app.
@@ -60,7 +60,7 @@ Avi is unhappy with the operations team and tells Freddy that these issues canno
 
 Emma's existing customers want to use the app, but frequent delays and errors make her unhappy. Reggie, the director, understands that unhappy customers could mean direct business loss.
 
-<h2>Introducing DevOps</h2>
+<h2 style="color:#0f6dbf">Introducing DevOps</h2>
 Reggie attended an Agile conference where the host talked about DevOps and how it fixes code delivery issues. He realized that development is Agile, but operations is still Waterfall.
 
 Reggie decides to bring in a DevOps consultant to fix code delivery issues and accelerate the business. He explains that there is no magic wand; everyone must work collaboratively, communicate effectively, and integrate the entire code delivery process.
@@ -71,14 +71,14 @@ Automation is applied to every task in the code delivery process, including code
 
 Everyone collaborates like the Avengers: sharp, smart, and intelligent. Our superheroes are developers, testers, builders, administrators, database administrators, and everyone across the board.
 
-<h2>The Automated DevOps Lifecycle</h2>
+<h2 style="color:#0f6dbf">The Automated DevOps Lifecycle</h2>
 Development and operations start working together. Every task in the delivery process is automated by every team so the whole process can be integrated. Finally, they automate and integrate the delivery process successfully.
 
 Let's see the entire automated DevOps lifecycle now. It is a completely automated lifecycle with no human intervention, eliminating human errors. It is reputable and a significant time-saver.
 
 Emma's requests can now be delivered very quickly because everything is automated. Emma is happy to see her happy customers. Finally, an idea has become a full-fledged business.
 
-<h2>Key Takeaways</h2>
+<h2 style="color:#0f6dbf">Key Takeaways</h2>
 
 - DevOps enables rapid task completion, transforming hours or days of work into minutes.
 - The traditional software development lifecycle (SDLC) involves phases from requirement gathering to maintenance.
