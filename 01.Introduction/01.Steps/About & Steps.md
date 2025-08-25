@@ -1,4 +1,4 @@
-<h1 style="color:#0f6dbf">About this course </h1>
+<h1 style="color:#0f6dbf; font-weight:bold">About this course </h1>
 Start your DevOps journey as an absolute beginner and reach the top of the game.
 
 <h2 style="color:#0f6dbf">Introduction </h2>

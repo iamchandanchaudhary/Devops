@@ -18,7 +18,8 @@ Pause, rewind, or slow the speed of the video if required. I promise you will de
 So, what are you waiting for? Buckle up and get ready for the exciting journey of DevOps.
 
 <h2 style="color:#0f6dbf">Key Takeaways</h2>
-DevOps learning is structured like building blocks, starting with foundational skills.
-Basic skills include Linux, virtualization, networking, and scripting.
-These foundational skills form a strong chassis to support advanced DevOps tools like AWS, Jenkins, Ansible, Kubernetes, and CI/CD.
-The course emphasizes practical, hands-on learning with a steady, unhurried approach.
+
+- DevOps learning is structured like building blocks, starting with foundational skills.
+- Basic skills include Linux, virtualization, networking, and scripting.
+- These foundational skills form a strong chassis to support advanced DevOps tools like AWS, Jenkins, Ansible, Kubernetes, and CI/CD.
+- The course emphasizes practical, hands-on learning with a steady, unhurried approach.
