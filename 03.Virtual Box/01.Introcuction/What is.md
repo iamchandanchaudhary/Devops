@@ -24,11 +24,11 @@ Virtualization partitions physical resources into virtual resources. To set up a
 The architecture typically consists of the physical hardware at the base, a software tool called a hypervisor on top of it, and virtual machines created by the hypervisor. Each virtual machine has its own operating system and runs applications or main services. This setup ensures isolation between services.
 
 ## Terminologies
-- Host OS: The operating system of the physical machine. For example, the OS on your laptop or desktop.
-- Guest OS: The operating system running inside a virtual machine. Virtual machines are sometimes called guest machines.
-- VM: Short for virtual machine.
-- Snapshot: A way to back up a virtual machine. Although we say "machine," a virtual machine is essentially a set of files that can be backed up easily. Every virtualization technology supports snapshots.
-- Hypervisor: The software tool that enables virtualization by allowing the creation of virtual machines.
+- <span style="font-weight:600">Host OS:</span> The operating system of the physical machine. For example, the OS on your laptop or desktop.
+- <span style="font-weight:600">Guest OS:</span> The operating system running inside a virtual machine. Virtual machines are sometimes called guest machines.
+- <span style="font-weight:600">VM:</span> Short for virtual machine.
+- <span style="font-weight:600">Snapshot:</span> A way to back up a virtual machine. Although we say "machine," a virtual machine is essentially a set of files that can be backed up easily. Every virtualization technology supports snapshots.
+- <span style="font-weight:600">Hypervisor:</span> The software tool that enables virtualization by allowing the creation of virtual machines.
 
 ## Types of Hypervisors
 There are two types of hypervisors:
