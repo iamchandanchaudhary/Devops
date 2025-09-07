@@ -2,7 +2,7 @@
 
 Install chocolatey from the instructions given in the link below.
 
-https://chocolatey.org/docs/installation
+- https://chocolatey.org/docs/installation
 
 ```
 choco install virtualbox --version=7.1.4 -y
