@@ -45,7 +45,7 @@ There are two labs:
 
 - Manual setup lab: You will use VirtualBox to create a VM by following several steps, download an ISO file, and install the operating system on the VM.
 
-- Automated setup lab: You will create a Vagrantfile with the box name and issue the command vagrant up to create the VM automatically.
+- Automated setup lab: You will create a Vagrantfile with the box name and issue the command `vagrant up` to create the VM automatically.
 
 Enough talking; let's get into action now. See you in the next lecture.
 
